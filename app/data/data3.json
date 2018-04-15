@@ -1,0 +1,77 @@
+{"data":
+  {
+    "bgImage": "https://thelittlewashhouse.files.wordpress.com/2015/02/appenzeller-alpaufzug-687d32ee-f88e-4cdd-8395-8c4ed2e4e28f.jpg",
+    "highlights":[
+      {"id":"1",
+        "site":"Manhattan",
+        "category":"City",
+        "info": "Manhattan is the most densely populated of New York City’s 5 boroughs. It's mostly made up of Manhattan Island, bounded by the Hudson, East and Harlem rivers. Among the world’s major commercial, financial and cultural centers, it’s the heart of “the Big Apple.” Its iconic sites include skyscrapers such as the Empire State Building, neon-lit Times Square and the theaters of Broadway.",
+        "lat": "40.7830603",
+        "long": "-73.9712488",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Manhattan_Skyline_night.jpg/800px-Manhattan_Skyline_night.jpg",
+        "video": "https://www.youtube.com/watch?v=ZvHXpd9uzN4",
+        "videoEmbed": "https://www.youtube.com/embed/ZvHXpd9uzN4"
+      },
+      {"id":"2",
+        "site":"Lincoln Financial Field",
+        "category":"Sports",
+        "info": "Lincoln Financial Field is the home stadium of the National Football League's champions Philadelphia Eagles and the Temple Owls football team of Temple University. It has a seating capacity of 69,176.",
+        "lat": "39.9007674",
+        "long": "-75.1674635",
+        "image": "https://www.uwishunu.com/wp-content/uploads/2015/10/crtsy-philadelphia-eagles-stadium-night-1280UW-780x480.jpg",
+        "video": "https://www.youtube.com/watch?v=NBrGIUo86sg",
+        "videoEmbed": "https://www.youtube.com/embed/NBrGIUo86sg"
+      },
+      {"id":"3",
+        "site":"Philadelphia",
+        "category":"City",
+        "info": "Philadelphia, Pennsylvania’s largest city, is notable for its rich history, on display at the Liberty Bell, Independence Hall (where the Declaration of Independence and Constitution were signed) and other American Revolutionary sites. Also iconic are the steps of the Philadelphia Museum of Art, immortalized by Sylvester Stallone’s triumphant run in the film, Rocky.",
+        "lat": "39.9525839",
+        "long": "-75.1652215",
+        "image": "http://www.philaenergy.org//wp-content/uploads/2017/06/header-campaign.png",
+        "video": "https://www.youtube.com/watch?v=5bQx7KUD0f4",
+        "videoEmbed": "https://www.youtube.com/embed/5bQx7KUD0f4"
+      },
+      {"id":"4",
+        "site":"Six Flags",
+        "category":"Entertainment",
+        "info": "Six Flags, officially Six Flags Entertainment Corporation, is an amusement park corporation based in the United States, with properties in the US, Canada, and Mexico.",
+        "lat": "40.1370678",
+        "long": "-74.4402149",
+        "image": "https://content.sixflags.com/haiyan/wp-content/blogs.dir/48/files/site-renderings/20151014204932_1562.jpg",
+        "video": "https://www.youtube.com/watch?v=EwWmgXbJ1XM",
+        "videoEmbed": "https://www.youtube.com/embed/EwWmgXbJ1XM"
+      },
+      {"id":"5",
+        "site":"Walt Disney World",
+        "category":"Entertainment",
+        "info": "Walt Disney World, officially known as the Walt Disney World Resort, also known as just Disney World, is an entertainment complex in Bay Lake and Lake Buena Vista, Florida, near Orlando and Kissimmee, Florida.",
+        "lat": "28.385233",
+        "long": "-81.563874",
+        "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1489421976%2Fwalt-disney-world-magic-kingdom-DISGUIDE0317.jpg%3Fitok%3DW38xpo-R&w=700&q=85",
+        "video": "https://www.youtube.com/watch?v=B4NOSwz-66I",
+        "videoEmbed": "https://www.youtube.com/embed/B4NOSwz-66I"
+      },
+      {"id":"6",
+        "site":"Ontario",
+        "category":"City",
+        "info": "Ontario is a province in east-central Canada that borders the U.S. and the Great Lakes. It's home to Ottawa, Canada's capital, known for Parliament Hill’s Victorian architecture and the National Gallery, featuring Canadian and indigenous art. Toronto, Ontario's capital, is home to the 553m-high CN Tower, with expansive views from its revolving restaurant, as well as High Park, site of a rare oak savannah habitat.",
+        "lat": "34.063344",
+        "long": "-117.650888",
+        "image": "http://www.dronestagr.am/wp-content/uploads/2015/08/The-Siege-Of-Power-2048-1200x674.jpg",
+        "video": "https://www.youtube.com/watch?v=exQyXcWLRgA",
+        "videoEmbed": "https://www.youtube.com/embed/exQyXcWLRgA"
+      },
+      {"id":"7",
+        "site":"Yellowstone National Park",
+        "category":"Park",
+        "info": "Yellowstone National Park is a nearly 3,500-sq.-mile wilderness recreation area atop a volcanic hot spot. Mostly in Wyoming, the park spreads into parts of Montana and Idaho too. Yellowstone features dramatic canyons, alpine rivers, lush forests, hot springs and gushing geysers, including its most famous, Old Faithful. It's also home to hundreds of animal species, including bears, wolves, bison, elk and antelope.",
+        "lat": "44.427963",
+        "long": "-110.588455",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/A4DCC6AC-1DD8-B71B-0B0D9C77BA3DAA63.jpg?width=950&quality=90&mode=crop",
+        "video": "https://www.youtube.com/watch?v=2QtdEq2tsh8",
+        "videoEmbed": "https://www.youtube.com/embed/2QtdEq2tsh8"
+      }
+    ]
+  }
+}

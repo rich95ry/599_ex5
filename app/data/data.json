@@ -1,24 +1,77 @@
-{
-  "speakers": [{
-    "title" : "Art in Full Bloom",
-    "name": "Lorenzo Garcia",
-    "shortname" : "Lorenzo_Garcia",
-    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Lorenzo Garcia brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
-    "description": "<p>Lorenzo was born in Mexico, but grew up in Southern California after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Lorenzo to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
-    "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
-  },{
-    "title" : "Deep Sea Wonders",
-    "name": "Hilary Goldywynn Post",
-    "shortname" : "Hillary_Goldwynn",
-    "summary": "Hillary is a sophomore art sculpture student at New York University, and has won the major international prizes for painters, including the Divinity Circle and the International Painter's Medal. Hillary's exhibit features paintings that contain only water including waves, deep sea, and river.",
-    "description": "<p>Hillary is a sophomore art sculpture student at New York University, and has already won all the major international prizes for new painters, including the Divinity Circle, the International Painter's Medal, and the Academy of Paris Award. Hillary's CAC exhibit features paintings that contain only water images including waves, deep sea, and river.</p><p>An avid water sports participant, Hillary understands the water in many ways in which others do not, or may not ever have the opportunity. Her goal in creating the CAC exhibit was to share with others the beauty, power, and flow of natural bodies of water throughout the world. In addition to the display, Hilary also hosts a session on Tuesday called Deep Sea Wonders, which combines her love of deep sea diving and snorkeling, with instruction for capturing the beauty of underwater explorations on canvas.</p>",
-    "artwork" : ["Hillary_Goldwynn_01_tn.jpg" , "Hillary_Goldwynn_02_tn.jpg" , "Hillary_Goldwynn_03_tn.jpg" , "Hillary_Goldwynn_04_tn.jpg" , "Hillary_Goldwynn_05_tn.jpg" , "Hillary_Goldwynn_06_tn.jpg" , "Hillary_Goldwynn_07_tn.jpg"]
-  },{
-    "title" : "The Art of Abstract",
-    "name": "Riley Rudolph Rewington",
-    "shortname" : "Riley_Rewington",
-    "summary": "The leader of the MMA artistic movement in his hometown of Portland, Riley Rudolph Rewington draws a crowd wherever he goes. Mixing street performance, video, music, and traditional art, Riley has created some of the most unique and deeply poignant abstract works of his generation.",
-    "description": "<p>Riley started out as musician and street performance artist, and now blends painting and photography with audio, video, and computer multimedia to create what he calls 'Music and Multimedia Artworks.' Riley's innovations in using multimedia to express art have created a youth culture movement in his town of Portland, in which he remains at the forefront. In his role as the founder of the MMA art form, Riley has become an inspiration to many up and coming artists. However, the part Riley insists is most important to him, is that he's helped many troubled youth take control of their lives, and create their own unique, positive futures. Seeing kids he's mentored graduate from high school and enroll in college, gives art the purpose that Riley so craves.</p><p>A first-year student at the Roux Academy of Art, Media, and Design, Riley is already changing the face of modern art at the university. Riley's exquisite abstract pieces have no intention of ever being understood, but instead beg the viewer to dream, create, pretend, and envision with their mind's eye. Riley will be speaking on the 'Art of Abstract' during Thursday's schedule.</p>",
-    "artwork" : ["Riley_Rewington_01_tn.jpg","Riley_Rewington_02_tn.jpg","Riley_Rewington_03_tn.jpg","Riley_Rewington_04_tn.jpg","Riley_Rewington_05_tn.jpg","Riley_Rewington_06_tn.jpg"]
-  }]
+{"data":
+  {
+    "bgImage": "https://thelittlewashhouse.files.wordpress.com/2015/02/appenzeller-alpaufzug-687d32ee-f88e-4cdd-8395-8c4ed2e4e28f.jpg",
+    "highlights":[
+      {"id":"1",
+        "site":"University of Pennsylvania",
+        "category":"Education",
+        "info": "The University of Pennsylvania (commonly known as Penn or UPenn) is a private Ivy League research university located in the University City section of Philadelphia. Incorporated as The Trustees of the University of Pennsylvania, Penn is one of 14 founding members of the Association of American Universities and one of the nine colonial colleges chartered before the American Revolution.",
+        "lat": "39.952219",
+        "long": "-75.193214",
+        "image": "https://fling.seas.upenn.edu/~shpe/dynamic/wordpress/wp-content/uploads/2017/02/penn4.jpg",
+        "video": "https://www.youtube.com/watch?v=wGsz27GaE4k",
+        "videoEmbed": "https://www.youtube.com/embed/wGsz27GaE4k"
+      },
+      {"id":"2",
+        "site":"Lincoln Financial Field",
+        "category":"Sports",
+        "info": "Lincoln Financial Field is the home stadium of the National Football League's champions Philadelphia Eagles and the Temple Owls football team of Temple University. It has a seating capacity of 69,176.",
+        "lat": "39.9007674",
+        "long": "-75.1674635",
+        "image": "https://www.uwishunu.com/wp-content/uploads/2015/10/crtsy-philadelphia-eagles-stadium-night-1280UW-780x480.jpg",
+        "video": "https://www.youtube.com/watch?v=NBrGIUo86sg",
+        "videoEmbed": "https://www.youtube.com/embed/NBrGIUo86sg"
+      },
+      {"id":"3",
+        "site":"Geno's Steak",
+        "category":"Food",
+        "info": "Geno's Steaks is a Philadelphia restaurant specializing in cheesesteaks, founded in 1966 by Joey Vento. Geno's is located in South Philadelphia at the intersection of 9th Street and Passyunk Avenue, directly across the street from rival Pat's King of Steaks, which is generally credited with having invented the steak sandwich in 1933.[1] The cheesesteak has since become a signature dish for the city of Philadelphia. After Joey Vento's death in 2011, restaurant ownership was passed to his son Geno Vento.",
+        "lat": "39.933824",
+        "long": "-75.158839",
+        "image": "http://www.genosteaks.com/wp-content/uploads/2015/05/genos-2.jpg",
+        "video": "https://www.youtube.com/watch?v=-jWwaLM3CBs",
+        "videoEmbed": "https://www.youtube.com/embed/-jWwaLM3CBs"
+      },
+      {"id":"4",
+        "site":"Independence Hall",
+        "category":"Attraction",
+        "info": "Independence Hall is the building where both the United States Declaration of Independence and the United States Constitution were debated and adopted. It is now the centerpiece of the Independence National Historical Park in Philadelphia, Pennsylvania. The building was completed in 1753 as the colonial legislature (later Pennsylvania State House) for the Province of Pennsylvania and was used in that capacity until the state capital moved to Lancaster in 1799. It became the principal meeting place of the Second Continental Congress from 1775 to 1783 and was the site of the Constitutional Convention in the summer of 1787.",
+        "lat": "39.948874",
+        "long": "-75.150023",
+        "image": "https://www.nps.gov/inde/planyourvisit/images/Hall-and-Wings-960-X-480_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false",
+        "video": "https://www.youtube.com/watch?v=M8egp_3ewfs",
+        "videoEmbed": "https://www.youtube.com/embed/M8egp_3ewfs"
+      },
+      {"id":"5",
+        "site":"Benjamin Franklin Museum",
+        "category":"Museum",
+        "info": "Explores the life and legacy of Philadelphia’s most famous citizen. Located in Franklin Court and part of Independence National Historical Park, the museum invites visitors to explore a variety of interactive exhibitions, personal artifacts, computer animations and hands-on displays, exploring Franklin’s life both as a private citizen and a statesman.",
+        "lat": "39.949644",
+        "long": "-75.146738",
+        "image": "https://www.wheretraveler.com/sites/default/files/styles/wt17_promoted_large/public/images/BenFrankMuseum.jpg?itok=U8VtnEUT&timestamp=1437400111",
+        "video": "https://www.youtube.com/watch?v=QT22TSrjjdo",
+        "videoEmbed": "https://www.youtube.com/embed/QT22TSrjjdo"
+      },
+      {"id":"6",
+        "site":"Thomas Jefferson University Hospital",
+        "category":"Hospital",
+        "info": "Thomas Jefferson University Hospitals in Philadelphia, Pa. is ranked No. 16 on the Best Hospitals Honor Roll. It is nationally ranked in 11 adult specialties and rated high performing in 2 adult specialties and 9 procedures and conditions. It is a general medical and surgical facility. It scored high in patient safety, demonstrating commitment to reducing accidents and medical mistakes. It is a teaching hospital.",
+        "lat": "39.949842",
+        "long": "-75.158050",
+        "image": "https://www.lhsigns.com/wp-content/uploads/2014/02/Jefferson-University-Hospital-project-page-header-1125x397.jpg",
+        "video": "https://www.youtube.com/watch?v=VWCL72V4zEw",
+        "videoEmbed": "https://www.youtube.com/embed/VWCL72V4zEw"
+      },
+      {"id":"7",
+        "site":"Reading Terminal Market",
+        "category":"Food",
+        "info": "Welcome to the Reading Terminal Market. One of America’s largest and oldest public markets, housed since 1893 in a National Historic Landmark building, the Market offers an incredible selection of locally grown & exotic produce, locally sourced meats and poultry, plus the finest seafood, cheeses, baked goods, and confections. You’ll find everything you need to create a memorable meal, from cookbooks, to table linens, to kitchenware, to fresh cut flowers, and more. Plus the widest variety of restaurants under one roof. Find it all here at Philadelphia’s historic public market!",
+        "lat": "39.953253",
+        "long": "-75.159257",
+        "image": "https://assets.visitphilly.com/wp-content/uploads/2017/12/ReadingTerminalMarket-food-court-R-Kennedy-2200VP.jpg",
+        "video": "https://www.youtube.com/watch?v=Dkx-dU4Xpjk",
+        "videoEmbed": "https://www.youtube.com/embed/Dkx-dU4Xpjk"
+      }
+    ]
+  }
 }
