@@ -21,6 +21,7 @@ p {
 li {
   font-family: inherit;
   font-weight: 100;
+  padding-right: 40px;
 }
 
 
@@ -81,7 +82,7 @@ header .navbar-inverse .navbar-nav>li>a {
 
 .maincontent {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 160%;
 }
 
@@ -110,12 +111,13 @@ header .navbar-inverse .navbar-nav>li>a {
 
 .highlightslist {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 160%;
 }
 
 #highlightList .highlightslist-img {
   margin-right: 20px;
+  width: 300px;
 }
 
 .highlightslist-title {
@@ -147,7 +149,7 @@ header .navbar-inverse .navbar-nav>li>a {
 
 .jumbotron {
   padding: 20px 0;
-  background-color: #ed8990;
+  background-color: #f77b94;
 }
 
 /**  chat-display **/
